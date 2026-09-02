@@ -127,15 +127,15 @@
 
         /* Asignación de imágenes */
         #section1 {
-            background-image: url('../imag/android.png');
+            background-image: url('android.png');
         }
 
         #section2 {
-            background-image: url('..//imag/im2.jpg');
+            background-image: url('imag/im2.jpg');
         }
 
         #section3 {
-            background-image: url('../imag/macros.jpg');
+            background-image: url('imag/macros.jpg');
         }
 
         /* Responsive */
